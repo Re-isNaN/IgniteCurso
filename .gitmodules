@@ -1,0 +1,3 @@
+[submodule "IgniteFeed"]
+	path = IgniteFeed
+	url = https://github.com/Re-isNaN/IgniteFeed.git
